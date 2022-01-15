@@ -1,5 +1,5 @@
 # Frontend Mentor - Stats preview card component solution
-<img src="https://github.com/Yuko-code/Yuko-code/blob/main/three-column.png" width="900">
+<img src="https://github.com/Yuko-code/Yuko-code/blob/main/three-colum.png" width="900">
 This is a solution to the [3-column preview card component](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/3-column-preview-card-a3QVSjYG5). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Overview
